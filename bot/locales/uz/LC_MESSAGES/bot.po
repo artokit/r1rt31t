@@ -1,0 +1,106 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-01-14 07:57+0300\n"
+"PO-Revision-Date: 2024-01-13 17:18+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: management/commands/bot.py:59
+msgid "Язык бота был изменен на Русский!"
+msgstr "Bot tili O'zbek tiliga o'zgartirildi!"
+
+#: management/commands/bot.py:65
+msgid "У вас нет покупок"
+msgstr "Sizda xaridlar yoʻq"
+
+#: management/commands/bot.py:71
+msgid ""
+"Для использования промокода, введите команду `/promo XXXXX`, где ХХХХХ - "
+"промо-код, который Вы хотите использовать."
+msgstr ""
+"Promokoddan foydalanish uchun buyruqni kiriting `/promo XXXXX`, bu yerda "
+"XXXXXX - siz foydalanmoqchi bo'lgan promo-kod."
+
+#: management/commands/bot.py:79
+msgid "Промокод не найден."
+msgstr "Промокод не найден."
+
+#: management/commands/bot.py:94
+msgid ""
+"Для доступа к сайту, перейдите по ссылке https://kaifshop.biz и "
+"используйте следующие данные для входа:"
+msgstr ""
+"Saytga kirish uchun havolaga o'ting https://kaifshop.biz va quyidagi "
+"kirish ma'lumotlaridan foydalaning:"
+
+#: management/commands/bot.py:95
+msgid "Логин"
+msgstr "Login"
+
+#: management/commands/bot.py:96
+msgid "Пароль"
+msgstr "Parol"
+
+#: management/commands/bot.py:97
+msgid "При недоступности сайта, воспользуйтесь VPN или TOR."
+msgstr "Agar sayt mavjud bo'lmasa, VPN yoki TOR dan foydalaning."
+
+#: management/commands/keyboards.py:10
+msgid "Выбрать город"
+msgstr "Shaharni tanlash"
+
+#: management/commands/keyboards.py:11
+msgid "Витрина"
+msgstr "Menyu"
+
+#: management/commands/keyboards.py:12
+msgid "Отзывы"
+msgstr "Fikrlar"
+
+#: management/commands/keyboards.py:15
+msgid "Профиль"
+msgstr "Profil"
+
+#: management/commands/keyboards.py:16
+msgid "Контакты"
+msgstr "Kontaktlar"
+
+#: management/commands/keyboards.py:17
+msgid "Доступ к сайту"
+msgstr "Saytga kirish"
+
+#: management/commands/keyboards.py:20
+msgid "Мои заказы"
+msgstr "Mening buyurtmalarim"
+
+#: management/commands/keyboards.py:21
+msgid "Последняя покупка"
+msgstr "Oxirgi harid"
+
+#: management/commands/keyboards.py:22
+msgid "Промо-код"
+msgstr "Promokod"
+
+#: management/commands/keyboards.py:33
+msgid "Перейти на сайт"
+msgstr "Saytga o'tish"
+
+#~ msgid "Пополнить баланс"
+#~ msgstr "еуйкйуйей"
+
+#~ msgid "Совершить покупку"
+#~ msgstr ""
+

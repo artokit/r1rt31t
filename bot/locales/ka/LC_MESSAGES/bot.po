@@ -1,0 +1,108 @@
+# Georgian translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-01-14 07:57+0300\n"
+"PO-Revision-Date: 2024-01-13 16:46+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ka\n"
+"Language-Team: ka <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: management/commands/bot.py:59
+msgid "Язык бота был изменен на Русский!"
+msgstr "ბოტის ენა შეიცვალა ქართულად!"
+
+#: management/commands/bot.py:65
+msgid "У вас нет покупок"
+msgstr "თქვენ არ გაქვთ შეკვეთები"
+
+#: management/commands/bot.py:71
+msgid ""
+"Для использования промокода, введите команду `/promo XXXXX`, где ХХХХХ - "
+"промо-код, который Вы хотите использовать."
+msgstr ""
+"პრომოკოდის გამოყენებისთვის, შეიყვანეთ ბრძანება `/promo XXXXX`, ХХХХХ - "
+"პრომოკოდის ნომერი"
+
+#: management/commands/bot.py:79
+msgid "Промокод не найден."
+msgstr "Промокод не найден."
+
+#: management/commands/bot.py:94
+msgid ""
+"Для доступа к сайту, перейдите по ссылке https://kaifshop.biz и "
+"используйте следующие данные для входа:"
+msgstr ""
+"საიტზე წვდომისთვის, გთხოვთ გადახედოთ ბმულს https://kaifshop.biz и გთხოვთ "
+"გამოიყენოთ შემდეგი მონაცემები საიტზე შესვლისთვის:"
+
+#: management/commands/bot.py:95
+msgid "Логин"
+msgstr "მომხმარებელი"
+
+#: management/commands/bot.py:96
+msgid "Пароль"
+msgstr "პროფილი"
+
+#: management/commands/bot.py:97
+msgid "При недоступности сайта, воспользуйтесь VPN или TOR."
+msgstr ""
+"საიტის გამოყენების შესაძლებლობის არ არსებობის შემთხვევაში, შეგიძლიათ "
+"გამოიყენოთ VPN-ი ან TOR სერვერი"
+
+#: management/commands/keyboards.py:10
+msgid "Выбрать город"
+msgstr "ქალაქი"
+
+#: management/commands/keyboards.py:11
+msgid "Витрина"
+msgstr "ვიტრაჟი"
+
+#: management/commands/keyboards.py:12
+msgid "Отзывы"
+msgstr "მიმოხილვები"
+
+#: management/commands/keyboards.py:15
+msgid "Профиль"
+msgstr "პროფილი"
+
+#: management/commands/keyboards.py:16
+msgid "Контакты"
+msgstr "კონტაქტები"
+
+#: management/commands/keyboards.py:17
+msgid "Доступ к сайту"
+msgstr "ვებ საიტი"
+
+#: management/commands/keyboards.py:20
+msgid "Мои заказы"
+msgstr "ჩემი შეკვეთები"
+
+#: management/commands/keyboards.py:21
+msgid "Последняя покупка"
+msgstr "ბოლო შეძენა"
+
+#: management/commands/keyboards.py:22
+msgid "Промо-код"
+msgstr "პრომო-კოდი"
+
+#: management/commands/keyboards.py:33
+msgid "Перейти на сайт"
+msgstr "გადადით საიტზე"
+
+#~ msgid "Пополнить баланс"
+#~ msgstr ""
+
+#~ msgid "Совершить покупку"
+#~ msgstr ""
+

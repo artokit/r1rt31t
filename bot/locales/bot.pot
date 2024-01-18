@@ -1,0 +1,374 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-01-18 23:23+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: management/commands/bot.py:81
+msgid "Язык бота был изменен на Русский!"
+msgstr ""
+
+#: management/commands/bot.py:87
+msgid "У вас нет покупок"
+msgstr ""
+
+#: management/commands/bot.py:96 management/commands/bot.py:293
+msgid "Вы выбрали город"
+msgstr ""
+
+#: management/commands/bot.py:101 management/commands/bot.py:301
+msgid "Доступные товара"
+msgstr ""
+
+#: management/commands/bot.py:109
+msgid ""
+"Для использования промокода, введите команду `/promo XXXXX`, где ХХХХХ - "
+"промо-код, который Вы хотите использовать."
+msgstr ""
+
+#: management/commands/bot.py:117
+msgid "Промокод не найден."
+msgstr ""
+
+#: management/commands/bot.py:132
+msgid ""
+"Для доступа к сайту, перейдите по ссылке https://kaifshop.biz и "
+"используйте следующие данные для входа:"
+msgstr ""
+
+#: management/commands/bot.py:134 management/commands/bot.py:147
+msgid "Логин"
+msgstr ""
+
+#: management/commands/bot.py:135
+msgid "Пароль"
+msgstr ""
+
+#: management/commands/bot.py:136
+msgid "При недоступности сайта, воспользуйтесь VPN или TOR."
+msgstr ""
+
+#: management/commands/bot.py:145
+msgid "Профиль пользователя"
+msgstr ""
+
+#: management/commands/bot.py:146
+msgid "Никнейм"
+msgstr ""
+
+#: management/commands/bot.py:148
+msgid "Баланс: "
+msgstr ""
+
+#: management/commands/bot.py:149
+msgid "Заказов"
+msgstr ""
+
+#: management/commands/bot.py:150
+msgid "Средний чек"
+msgstr ""
+
+#: management/commands/bot.py:151
+msgid "Отзывов"
+msgstr ""
+
+#: management/commands/bot.py:152
+msgid "Скидка"
+msgstr ""
+
+#: management/commands/bot.py:153
+msgid "Язык"
+msgstr ""
+
+#: management/commands/bot.py:173
+msgid "У вас нет неиспользованных купонов"
+msgstr ""
+
+#: management/commands/bot.py:179
+msgid ""
+"У вас нет активных ботов\n"
+"\n"
+"Во избежании блокировок общедоступных ботов, Вы можете создать своего "
+"персонального бота и иметь доступ к магазину в любое время.\n"
+"\n"
+"💰 Распространяйте своего личного бота и получайте 50RUB за каждую покупку"
+" совершенную другими пользователями в вашем боте.\n"
+"\n"
+"💰 Пользователи в вашем боте получают 50RUB на баланс после каждой покупки."
+msgstr ""
+
+#: management/commands/bot.py:192
+msgid ""
+"Чтобы создать персонального бота, Вам необходимо выполнить следующие "
+"действия:\n"
+"\n"
+"1. Зайти к @BotFather и нажать на /newbot.\n"
+"2. Ввести имя бота, можно на русском языке.\n"
+"3. Ввести логин бота на английском языке. Обратите внимание, что логин "
+"должен быть свободен и заканчиваться на «bot» или «_bot», например: "
+"namemybot.\n"
+"4. После успешного ввода данных бот пришлет сообщение с поздравлениями и "
+"специальным токеном. Этот токен необходимо скопировать и переслать нам в "
+"этот чат.\n"
+"5. Бот добавлен и готов к работе.\n"
+"Пример токена : 1234567890:RdAQ9ds8Itdxzq_Tf8JFpsPA9sqhfIS\n"
+"\n"
+"Ни в коем случае не показывайте свой токен 3м лицам."
+msgstr ""
+
+#: management/commands/bot.py:214
+msgid ""
+"Введите никнейм(его будут видеть все). Мин.длина 3 символа - максимальная"
+" 12 символов. Пробелы, эмодзи и прочие символы запрещены!"
+msgstr ""
+
+#: management/commands/bot.py:222
+msgid ""
+"Не удалось обновить никнейм. Мин.длина 3 символа - максимальная 12 "
+"символов. Пробелы и прочие символы запрещены!"
+msgstr ""
+
+#: management/commands/bot.py:230
+msgid "Никнейм успешно изменен"
+msgstr ""
+
+#: management/commands/bot.py:238
+msgid "Действие отменено"
+msgstr ""
+
+#: management/commands/bot.py:245 management/commands/bot.py:266
+#: management/commands/bot.py:318 management/commands/keyboards.py:15
+msgid "Отзывы"
+msgstr ""
+
+#: management/commands/bot.py:245 management/commands/bot.py:266
+msgid "Страница"
+msgstr ""
+
+#: management/commands/bot.py:284
+msgid "Выберите город:"
+msgstr ""
+
+#: management/commands/bot.py:298
+msgid "Нет товаров в наличии"
+msgstr ""
+
+#: management/commands/bot.py:316
+msgid "Покупок"
+msgstr ""
+
+#: management/commands/bot.py:317
+msgid "Рейтинг"
+msgstr ""
+
+#: management/commands/bot.py:348
+msgid "Выберите район"
+msgstr ""
+
+#: management/commands/bot.py:373
+msgid "Выберите фасовку"
+msgstr ""
+
+#: management/commands/bot.py:386
+msgid "Выберите свежесть"
+msgstr ""
+
+#: management/commands/bot.py:393 management/commands/bot.py:405
+msgid "Выберите тип клада"
+msgstr ""
+
+#: management/commands/bot.py:417
+msgid "Товар"
+msgstr ""
+
+#: management/commands/bot.py:418
+msgid "Ваш заказ"
+msgstr ""
+
+#: management/commands/bot.py:419
+msgid "Локация"
+msgstr ""
+
+#: management/commands/bot.py:420
+msgid "Фасовка"
+msgstr ""
+
+#: management/commands/bot.py:431
+msgid "Тип клада"
+msgstr ""
+
+#: management/commands/bot.py:432
+msgid "Купон"
+msgstr ""
+
+#: management/commands/bot.py:434
+msgid "Стоимость"
+msgstr ""
+
+#: management/commands/bot.py:434
+msgid "Выберите метод оплаты"
+msgstr ""
+
+#: management/commands/bot.py:452
+msgid "Недостаточно средств на счету"
+msgstr ""
+
+#: management/commands/bot.py:453
+msgid "Стоимость заказа"
+msgstr ""
+
+#: management/commands/bot.py:454
+msgid "Пополните баланс и повторите снова или выберите другой метод оплаты"
+msgstr ""
+
+#: management/commands/bot.py:465
+msgid "Заказ"
+msgstr ""
+
+#: management/commands/bot.py:466
+msgid "Метод пополнения"
+msgstr ""
+
+#: management/commands/bot.py:467
+msgid "Куда переводить"
+msgstr ""
+
+#: management/commands/bot.py:468
+msgid ""
+"Если платеж не поступит в течении 120 минут, заявка будет отменена!\n"
+"Тех. поддержка"
+msgstr ""
+
+#: management/commands/bot.py:469
+msgid "Точная сумма"
+msgstr ""
+
+#: management/commands/bot.py:470
+msgid "ТОЛЬКО ПО КРИПТО-ОПЛАТАМ!"
+msgstr ""
+
+#: management/commands/bot.py:498
+msgid ""
+"Если платеж не поступит в течении 60 минут, заявка будет отменена!\n"
+"После перевода средств, нажмите на кнопку \"Подтвердить платеж\" ниже."
+msgstr ""
+
+#: management/commands/bot.py:515
+msgid ""
+"Прoверяем ваш платеж... Время обработки заявки 5-20 минут.\n"
+"\n"
+"При проблемах с обменом свяжитесь с оператором"
+msgstr ""
+
+#: management/commands/bot.py:522
+msgid "Вы действительно хотите отменить заявку?"
+msgstr ""
+
+#: management/commands/bot.py:527
+msgid "Заявка отменена"
+msgstr ""
+
+#: management/commands/bot.py:535
+msgid ""
+"Просканируйте этот QR-код для быстрого ввода адреса и суммы в кошельке "
+"или терминале."
+msgstr ""
+
+#: management/commands/keyboards.py:13
+msgid "Выбрать город"
+msgstr ""
+
+#: management/commands/keyboards.py:14
+msgid "Витрина"
+msgstr ""
+
+#: management/commands/keyboards.py:18
+msgid "Профиль"
+msgstr ""
+
+#: management/commands/keyboards.py:19
+msgid "Контакты"
+msgstr ""
+
+#: management/commands/keyboards.py:20
+msgid "Доступ к сайту"
+msgstr ""
+
+#: management/commands/keyboards.py:23
+msgid "Мои заказы"
+msgstr ""
+
+#: management/commands/keyboards.py:24
+msgid "Последняя покупка"
+msgstr ""
+
+#: management/commands/keyboards.py:25
+msgid "Промо-код"
+msgstr ""
+
+#: management/commands/keyboards.py:38
+msgid "Сменить никнейм"
+msgstr ""
+
+#: management/commands/keyboards.py:39 management/commands/keyboards.py:142
+msgid "Пополнить баланс"
+msgstr ""
+
+#: management/commands/keyboards.py:40
+msgid "Показать купоны"
+msgstr ""
+
+#: management/commands/keyboards.py:41
+msgid "Персональный бот"
+msgstr ""
+
+#: management/commands/keyboards.py:49
+msgid "Отмена"
+msgstr ""
+
+#: management/commands/keyboards.py:55
+msgid "Как добавить персонального бота?"
+msgstr ""
+
+#: management/commands/keyboards.py:61
+msgid "Перейти на сайт"
+msgstr ""
+
+#: management/commands/keyboards.py:133
+msgid "Оплата с баланса"
+msgstr ""
+
+#: management/commands/keyboards.py:148
+msgid "Подтвердить платеж"
+msgstr ""
+
+#: management/commands/keyboards.py:149 management/commands/keyboards.py:155
+#: management/commands/keyboards.py:162
+msgid "Отменить заказ"
+msgstr ""
+
+#: management/commands/keyboards.py:161
+msgid "Показать QR-код для оплаты"
+msgstr ""
+
+#: management/commands/keyboards.py:171
+msgid "Пред."
+msgstr ""
+
+#: management/commands/keyboards.py:174
+msgid "След."
+msgstr ""
+
